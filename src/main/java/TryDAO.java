@@ -16,5 +16,6 @@ public class TryDAO {
         cur.registerUser(user3);
         cur.updateUser(user2);
         cur.printAllUser();
+        cur.printAllUser();
     }
 }
